@@ -77,6 +77,7 @@ function renderUI(data: any) {
 }
 
 // # 必要な記述
+function getData() {}
 function initLogger() {}
 function initDB() {}
 function getConfig() {}

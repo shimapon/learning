@@ -11,13 +11,13 @@
 
 上から低い・悪い
 
-- 偶発的凝縮：必ず避けるべき
-- 論理的凝縮：可能な限り避けるべき
-- 時間的凝縮：小さく保つ
-- 手順的凝縮：小さく保つ
-- 通信的凝縮：小さく保つ
-- 逐次的凝縮：理想的
-- 機能的凝縮：理想的
+- [偶発的凝縮](coincidentalCohesion.ts)：必ず避けるべき
+- [論理的凝縮](logicalCohesion.ts)：可能な限り避けるべき
+- [時間的凝縮](temporalCohesion.ts)：小さく保つ
+- [手順的凝縮](proceduralCohesion.md)：小さく保つ
+- [通信的凝縮](communicationalCohesion.md)：小さく保つ
+- [逐次的凝縮](sequentialCohesion.ts)：理想的
+- [機能的凝縮](functionalCohesion.ts)：理想的
 
 → 凝縮度が低いモジュールは低くする
 
